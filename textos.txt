@@ -1,0 +1,39 @@
+home__descrição
+Experiência de alto nível em conhecimentos de web design e desenvolvimento, produzindo trabalhos de qualidade.
+
+
+Informatica para internet
+ITB- Instituto Técnnico de Barueri
+ 2019 - 2021
+
+* CERCA DE
+about__description
+Desenvolvedor Web, com amplo conhecimento e anos de experiência, atuando em tecnologias web e design Ui / Ux, entregando trabalhos de qualidade.
+
+about__info-name
+Anos de experiência
+Projeto <br> concluído
+Empresas <br> trabalharam
+
+
+* SERVIÇOS
+services__modal-service
+Eu desenvolvo a interface do usuário.
+Desenvolvimento de página web.
+Eu crio interações de elementos ux.
+Eu posiciono a marca da sua empresa.
+
+
+* PORTFOLIO
+portfolio__description
+Site adaptável a todos os dispositivos, com componentes de interface do usuário e interações animadas.
+
+
+* PROJETO
+Descrição do Projeto
+Entre em contato agora e ganhe 30% de desconto no seu novo projeto.
+
+
+* DEPOIMENTO
+testemunho__descrição
+Tenho uma boa impressão, realizo o meu projeto com toda a qualidade e atenção possível e apoio 24 horas por dia.
